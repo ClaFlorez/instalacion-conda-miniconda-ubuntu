@@ -78,7 +78,7 @@ python --version
 which conda
 # /root/anaconda3/bin/conda
 ```
-![Conda Ubuntu](images/conda-ubuntu.JPG)
+![Conda Ubuntu](conda-ubuntu.JPG)
 ---
 
 ## 4️⃣ Crear entornos en Conda
