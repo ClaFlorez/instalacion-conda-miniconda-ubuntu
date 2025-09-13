@@ -47,7 +47,7 @@ chmod +x Anaconda3-2024.02-1-Linux-x86_64.sh
 # Ejecutar la instalación interactiva
 ./Anaconda3-2024.02-1-Linux-x86_64.sh
 ```
-
+![Conda Ubuntu](conda-non-activate.png)
 ---
 
 ## 3️⃣ Activar Conda
