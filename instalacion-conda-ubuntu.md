@@ -7,6 +7,7 @@ Incluye además una guía alternativa con **Miniconda**, la versión ligera de A
 
 ## 1️⃣ Liberar espacio en la VM
 
+![Conda Ubuntu](low-espace-ubuntu.png)
 Antes de instalar, el disco estaba lleno. Para liberar espacio hice:
 
 ```bash
@@ -108,6 +109,8 @@ python -c "import numpy as np, pandas as pd; print(np.__version__, pd.__version_
 ## 5️⃣ Estructura de carpetas de Anaconda
 
 Dentro de `~/anaconda3` se crean carpetas como:
+
+![Conda Ubuntu](carpetas-env-conda.png)
 
 - **bin/** → ejecutables principales (`conda`, `python`, etc.)  
 - **envs/** → aquí se guardan los entornos creados (`ml-course`, etc.)  
